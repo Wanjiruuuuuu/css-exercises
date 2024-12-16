@@ -1,0 +1,17 @@
+.yay{
+    color: white;
+    background-color: black;
+    
+}
+.ney{
+    color: black;
+    background-color: yellow;
+}
+
+.yay ,
+.ney {
+
+    font-family:'Times New Roman', Times, serif;
+    font-size: 28px;
+
+}
